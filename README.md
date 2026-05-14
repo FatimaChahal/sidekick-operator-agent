@@ -2,6 +2,11 @@
 
 > Build your own version of OpenAI's Operator — an AI agent that works *with you* inside your browser, powered by **LangGraph** + **Playwright** + **Gradio**.
 
+## 🎬 Demo
+
+![Sidekick en action](assets/demo_github_trending.png)
+*Sidekick navigue autonomement sur GitHub Trending*
+
 ---
 
 ## 🧠 What is Sidekick?
